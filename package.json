@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "author": "Nhanh Huynh",
   "license": "ISC",
@@ -18,6 +19,16 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-react": "^7.37.5",
     "globals": "^16.4.0",
+    "nodemon": "^3.1.10",
     "prettier": "^3.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhthinhanh/GT24V7X117_HuynhThiNhanh_Backend1.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/huynhthinhanh/GT24V7X117_HuynhThiNhanh_Backend1/issues"
+  },
+  "homepage": "https://github.com/huynhthinhanh/GT24V7X117_HuynhThiNhanh_Backend1#readme"
 }
